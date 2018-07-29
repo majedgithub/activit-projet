@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<biblio>
+<livre>
+<titre>l1</titre>
+<auteur>a1</auteur>
+<date>2008</date>
+</livre>
+<livre>
+<titre>l2</titre>
+<auteur>a2</auteur>
+<date>2008</date>
+</livre>
+<livre>
+<titre>l3</titre>
+<auteur>a3</auteur>
+<date>2008</date>
+</livre>
+</biblio>
