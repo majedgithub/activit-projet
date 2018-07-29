@@ -2,7 +2,7 @@
 
 function connect(){
     try{
-        $bdd = new PDO('mysql:host=localhost;dbname=livrebd','root','');
+        // $bdd = new PDO('mysql:host=localhost;dbname=formationbd','root','');
         return $bdd;
 
     }catch(PDOException $e){
